@@ -12,9 +12,9 @@ I have worked with Python, Java, SQL, and web technologies through my education 
 
 ## Technical Skills
 
-- **Programming Languages:** Python, Java, C, C#
+- **Programming Languages:** Python, Java
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Database:** SQL, MySQL
+- **Database:** SQL
 - **Tools:** GitHub, VS Code, Eclipse
 
 ## Projects
